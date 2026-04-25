@@ -1,6 +1,6 @@
 -- ตาราง Map ID -> Script URL
 local mapScripts = {
-    [8737899170] = "https://raw.githubusercontent.com/aosggoffice-eng/AOSggHub_V1/refs/heads/main/obfuscated_script-1777093298486.lua.txt",
+    [8737899170] = "https://raw.githubusercontent.com/aosggoffice-eng/AOSggHub_V1/refs/heads/main/Pet%20sim99%20fastegg",
     [1234567890] = "https://example.com/script1.lua",
     [9876543210] = "https://example.com/script2.lua"
 }
